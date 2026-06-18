@@ -1,6 +1,6 @@
 # 💊 Smart Pharmacy Invoice System — Excel Mini Project
 
-A self-made Excel-based invoice system built for a pharmacy use case. This mini project demonstrates how Excel formulas and data validation can be combined to create a functional, automated invoicing tool — no VBA or macros required.
+An Excel-based invoice system built for a pharmacy use case. This mini project demonstrates how Excel formulas and data validation can be combined to create a functional, automated invoicing tool — no VBA or macros required.
 
 ---
 
