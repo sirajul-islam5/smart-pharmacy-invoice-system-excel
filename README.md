@@ -89,7 +89,14 @@ A SUM formula at the bottom adds up all row totals and displays the Grand Total 
 3. Fill in Invoice No, Date, and Customer Name   
 4. In each product row, click the dropdown and select a medicine   
 5. Enter the quantity — price and total fill automatically   
-6. Grand Total updates instantly at the bottom   
+6. Grand Total updates instantly at the bottom
+
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
