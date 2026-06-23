@@ -12,7 +12,7 @@ Manual invoice creation is time-consuming and error-prone. This project simulate
 
 ## 🖼️ Invoice Preview
 
-![Invoice Preview](invoice-preview.png)
+![Invoice Preview](invoice-system-overview.png)
 
 ---
 
